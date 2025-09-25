@@ -1,0 +1,12 @@
+1. npx create-next-app@latest
+(read about eslint, turboback and import alias used during app creation)
+
+2. shadcn ui setup:
+  a: npx shadcn@latest init
+    ask multiple question like: what style would-------- new york
+                                what colour ------------ neutral
+                                css variable ----------- yes
+  b: add button :- npx shadcn@latest add button
+  note: as we add first component it creates a component folder that contains these items inside ui folder
+
+3. add themes feature in project
